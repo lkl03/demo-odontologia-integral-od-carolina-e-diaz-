@@ -1,2 +1,7 @@
-# demo-odontologia-integral-od-carolina-e-diaz-
-Demo web para ODONTOLOGIA INTEGRAL Od. CAROLINA E. DIAZ y equipo — diseñada por eterlab.
+# ODONTOLOGIA INTEGRAL Od. CAROLINA E. DIAZ y equipo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
